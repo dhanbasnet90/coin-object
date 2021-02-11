@@ -22,7 +22,7 @@ let coin = {
         } else {
             image.src="./images/coin2.jpeg"
            }
-        return image;; 
+        return image;
     }
     
 }    
